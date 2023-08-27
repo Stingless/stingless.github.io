@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://stingless.github.io/sitemap.xml
