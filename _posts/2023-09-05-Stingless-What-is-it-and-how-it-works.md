@@ -1,6 +1,6 @@
 ---
 date: 2023-09-05
-title: Stingless: What is it and how it works.
+title: Stingless- What is it and how it works.
 categories:
   - stingless
   - technical
