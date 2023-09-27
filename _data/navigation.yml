@@ -1,3 +1,7 @@
+- name: Github
+  link: https://github.com/Stingless
+  new_window: false
+  highlight: false
 - name: Pricing
   link: /pricing/
   new_window: false
