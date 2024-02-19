@@ -18,7 +18,7 @@ Consider this: Upon encountering a software or website that appears promising, y
 ## Increasing User Attraction and Retention
 In today's cutthroat digital market, user engagement is critical. Users are drawn in by an attractive user interface (UI), which also makes navigating the interface easy and promotes interaction. In the meantime, a fantastic user experience creates a lasting impression and converts skeptics into devoted supporters. Software developers and product designers may build a devoted user base that promotes engagement, retention, and eventually commercial success by giving UI/UX top priority.
 
-![UIUX](C:\Users\asus\OneDrive\Desktop\stingless\stingless.github.io\images\uiux.png)
+
 
 ### Basic Principles of UI Design:
 1. **Layout**
