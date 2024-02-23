@@ -5,6 +5,7 @@ Design
 author_staff_member: Ashitha
 date: 2024-02-20
 ---
+![image](https://github.com/Ashitha-Shetty/stingless.github.io/assets/83643646/6d32d89f-c7d7-4d35-9d9b-3a7eb8352d8a)
 
 # NAVIGATING UI/UX: A NOVICE’S HANDBOOK
 
