@@ -1,7 +1,6 @@
 ---
 title: Navigating UI/UX-A Novice's Handbook
-categories: UI/UX
-Design
+categories: UI/UX Design
 author_staff_member: Ashitha
 date: 2024-02-20
 ---
