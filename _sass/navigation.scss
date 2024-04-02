@@ -33,7 +33,7 @@ nav {
 		margin: 0 3px;
 		padding: 20px 10px;
 		border-bottom: 1px solid#c0c0c0 rgb(192,192,192);
-		color: #222831;
+		
 		transition: .2s ease-in-out;
 		display: none;
 
@@ -64,7 +64,7 @@ nav {
 	a:hover {
 
 		border-bottom: 1px solid #c0c0c0;
-		color:#222831;
+		color:#c0c0c0;
 	}
 
 	@media #{$mid-point} {
