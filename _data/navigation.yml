@@ -1,9 +1,9 @@
 - name: Github
   link: https://github.com/Stingless
-  new_window: false
+  new_window: true
   highlight: false
 - name: Pricing
-  link: /pricing/
+  link: /es-manager/
   new_window: false
   highlight: false
 - name: Blog
@@ -16,5 +16,9 @@
   highlight: false
 - name: Contact
   link: /contact/
+  new_window: false
+  highlight: false
+- name: Pricing
+  link: /pricing/
   new_window: false
   highlight: false
